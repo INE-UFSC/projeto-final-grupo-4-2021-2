@@ -1,1 +1,1 @@
-Esse diretório será utilizado para a última etapa do projeto, na qual a versão final será desenvolvida.
+Para executar corretamente, executar app.py, com versao_final aberta no editor de código/terminal para que os paths usados no projeto fiquem corretos
